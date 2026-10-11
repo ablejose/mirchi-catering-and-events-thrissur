@@ -1,0 +1,49 @@
+{
+  "slug": "mirchi-catering-and-events-thrissur",
+  "name": "Mirchi Catering & Events",
+  "shortName": "Mirchi",
+  "descriptor": "Catering & Events",
+  "address": "Kattilapoovam-Kachithodu Rd, Pullamkandam, Thrissur, Keralam 680028",
+  "area": "Pullamkandam",
+  "city": "Thrissur",
+  "district": "Thrissur",
+  "region": "Kerala",
+  "postalCode": "680028",
+  "geo": {
+    "lat": 10.5980744,
+    "lng": 76.30020499999999
+  },
+  "mapsLink": "https://maps.google.com/?cid=1894320834051746632",
+  "phone": "+91 97479 41739",
+  "whatsapp": "919747941739",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 4.7,
+  "reviewCount": 14,
+  "reviews": [
+    {
+      "name": "TINTU M.T",
+      "rating": 5,
+      "quote": "Delicious food. Good service. Affordable price"
+    },
+    {
+      "name": "Anu Midhu",
+      "rating": 5,
+      "quote": "Delicious food and better service"
+    },
+    {
+      "name": "Vivek Pk",
+      "rating": 5,
+      "quote": "scrumptious food. The best and most affordable food.💯👌🏻"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://mirchi-catering-and-events-thrissur.vercel.app"
+}
